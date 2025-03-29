@@ -1,0 +1,1 @@
+Model = dict[int, bool]
